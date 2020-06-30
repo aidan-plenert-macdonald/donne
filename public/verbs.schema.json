@@ -1,0 +1,29 @@
+{
+    "type": "object",
+    "properties": {
+        "present": {
+            "title": "Present Tense",
+            "type": "object",
+            "properties": {
+                "minä": {
+                    "type": "string"
+                },
+                "sinä": {
+                    "type": "string"
+                },
+                "hän": {
+                    "type": "string"
+                },
+                "me": {
+                    "type": "string"
+                },
+                "se": {
+                    "type": "string"
+                },
+                "he": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
