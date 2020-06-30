@@ -1,0 +1,22 @@
+{
+    "syödä": {
+        "present": {
+            "minä": "syön",
+            "sinä": "syöt",
+            "hän": "syö",
+            "me": "syömme",
+            "se": "syötte",
+            "he": "syödään"
+        }
+    },
+    "jouda": {
+        "present": {
+            "minä": "juon",
+            "sinä": "juot",
+            "hän": "juo",
+            "me": "juomme",
+            "se": "juotte",
+            "he": "juovat"
+        }
+    }
+}
