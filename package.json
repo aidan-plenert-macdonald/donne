@@ -1,6 +1,7 @@
 {
   "name": "donne",
   "version": "0.1.0",
+  "homepage": "https://aidan-plenert-macdonald.github.io/donne/",
   "private": true,
   "dependencies": {
     "@rjsf/core": "^2.2.0",

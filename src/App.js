@@ -32,7 +32,7 @@ function App() {
 
   useEffect(
     () => {
-      fetch("/verbs.schema.json")
+      fetch(`${process.env.PUBLIC_URL}/verbs.schema.json`)
         .then(res => res.json())
         .then(res => setSchema(res))
     }, []
@@ -40,7 +40,7 @@ function App() {
 
   useEffect(
     () => {
-      fetch("/verbs.json")
+      fetch(`${process.env.PUBLIC_URL}/verbs.json`)
         .then(res => res.json())
         .then(res => setVerbs(res))
     }, []
