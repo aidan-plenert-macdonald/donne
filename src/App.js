@@ -50,7 +50,7 @@ function App() {
   
   useEffect(
     () => {
-      setSchema({title: verb, ...schema})
+      setSchema({...schema, title: verb})
     }, [verb]
   )
 
@@ -59,9 +59,11 @@ function App() {
       <Container>
         <Row>
           <Form
+            key={verb}
             schema={schema} 
             validate={validate}
-            ErrorList={() => { return <div></div>; }}
+            showErrorList={false}
+            onSubmit={randomVerb}
           />
         </Row>
       </Container>

@@ -8,5 +8,15 @@
             "se": "syötte",
             "he": "syödään"
         }
+    },
+    "jouda": {
+        "present": {
+            "minä": "juon",
+            "sinä": "juot",
+            "hän": "juo",
+            "me": "juomme",
+            "se": "juotte",
+            "he": "juovat"
+        }
     }
 }
