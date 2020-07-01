@@ -1,4 +1,24 @@
 {
+    "istua": {
+        "present": {
+            "minä": "istun",
+            "sinä": "istut",
+            "hän": "istuu",
+            "me": "istumme",
+            "se": "istutte",
+            "he": "istuvat"
+        }
+    },
+    "seisoa": {
+        "present": {
+            "minä": "seison",
+            "sinä": "seisot",
+            "hän": "seisoo",
+            "me": "seisomme",
+            "se": "seisotte",
+            "he": "seisovat"
+        }
+    },
     "syödä": {
         "present": {
             "minä": "syön",
@@ -6,10 +26,10 @@
             "hän": "syö",
             "me": "syömme",
             "se": "syötte",
-            "he": "syödään"
+            "he": "syövät"
         }
     },
-    "jouda": {
+    "juoda": {
         "present": {
             "minä": "juon",
             "sinä": "juot",
@@ -17,6 +37,879 @@
             "me": "juomme",
             "se": "juotte",
             "he": "juovat"
+        }
+    },
+    "odottaa": {
+        "present": {
+            "minä": "odotan",
+            "sinä": "odotat",
+            "hän": "odottaa",
+            "me": "odotamme",
+            "se": "odotatte",
+            "he": "odottavat"
+        }
+    },
+    "ymmärtää": {
+        "present": {
+            "minä": "ymmärrän",
+            "sinä": "ymmärrät",
+            "hän": "ymmärtää",
+            "me": "ymmärrämme",
+            "se": "ymmärrätte",
+            "he": "ymmärtävät"
+        }
+    },
+    "muistaa": {
+        "present": {
+            "minä": "muistan",
+            "sinä": "muistat",
+            "hän": "muistaa",
+            "me": "muistamme",
+            "se": "muistatte",
+            "he": "muistavat"
+        }
+    },
+    "unohtaa": {
+        "present": {
+            "minä": "unohdan",
+            "sinä": "unohdat",
+            "hän": "unohtaa",
+            "me": "unohdamme",
+            "se": "unohdatte",
+            "he": "unohtavat"
+        }
+    },
+    "ajatella": {
+        "present": {
+            "minä": "ajattelen",
+            "sinä": "ajattelet",
+            "hän": "ajattelee",
+            "me": "ajattelemme",
+            "se": "ajattelette",
+            "he": "ajattelevat"
+        }
+    },
+    "tietää": {
+        "present": {
+            "minä": "tiedän",
+            "sinä": "tiedät",
+            "hän": "tietää",
+            "me": "tiedämme",
+            "se": "tiedätte",
+            "he": "tietävät"
+        }
+    },
+    "osata": {
+        "present": {
+            "minä": "osaan",
+            "sinä": "osaat",
+            "hän": "osaa",
+            "me": "osaamme",
+            "se": "osaatte",
+            "he": "osaavat"
+        }
+    },
+    "opiskella": {
+        "present": {
+            "minä": "opiskelen",
+            "sinä": "opiskelet",
+            "hän": "opiskelee",
+            "me": "opiskelemme",
+            "se": "opiskelette",
+            "he": "opiskelevat"
+        }
+    },
+    "oppia": {
+        "present": {
+            "minä": "opin",
+            "sinä": "opit",
+            "hän": "oppii",
+            "me": "opimme",
+            "se": "opitte",
+            "he": "oppivat"
+        }
+    },
+    "kysyä": {
+        "present": {
+            "minä": "kysyn",
+            "sinä": "kysyt",
+            "hän": "kysyy",
+            "me": "kysymme",
+            "se": "kysytte",
+            "he": "kysyvät"
+        }
+    },
+    "vastata": {
+        "present": {
+            "minä": "vastaan",
+            "sinä": "vastaat",
+            "hän": "vastaa",
+            "me": "vastaamme",
+            "se": "vastaatte",
+            "he": "vastaavat"
+        }
+    },
+    "pyytää": {
+        "present": {
+            "minä": "pyydän",
+            "sinä": "pyydät",
+            "hän": "pyytää",
+            "me": "pyydämme",
+            "se": "pyydätte",
+            "he": "pyytävät"
+        }
+    },
+    "sanoa": {
+        "present": {
+            "minä": "sanon",
+            "sinä": "sanot",
+            "hän": "sanoo",
+            "me": "sanomme",
+            "se": "sanotte",
+            "he": "sanovat"
+        }
+    },
+    "kertoa": {
+        "present": {
+            "minä": "kerron",
+            "sinä": "kerrot",
+            "hän": "kertoo",
+            "me": "kerromme",
+            "se": "kerrotte",
+            "he": "kertovat"
+        }
+    },
+    "keskustella": {
+        "present": {
+            "minä": "keskustelen",
+            "sinä": "keskustelet",
+            "hän": "keskustelee",
+            "me": "keskustelemme",
+            "se": "keskustelette",
+            "he": "keskustelevat"
+        }
+    },
+    "nukkua": {
+        "present": {
+            "minä": "nukun",
+            "sinä": "nukut",
+            "hän": "nukkuu",
+            "me": "nukumme",
+            "se": "nukutte",
+            "he": "nukkuvat"
+        }
+    },
+    "herätä": {
+        "present": {
+            "minä": "herään",
+            "sinä": "heräät",
+            "hän": "herää",
+            "me": "heräämme",
+            "se": "heräätte",
+            "he": "heräävät"
+        }
+    },
+    "nousta": {
+        "present": {
+            "minä": "nousen",
+            "sinä": "nouset",
+            "hän": "nousee",
+            "me": "nousemme",
+            "se": "nousette",
+            "he": "nousevat"
+        }
+    },
+    "maata": {
+        "present": {
+            "minä": "makaan",
+            "sinä": "makaat",
+            "hän": "makaa",
+            "me": "makaamme",
+            "se": "makaatte",
+            "he": "makaavat"
+        }
+    },
+    "pestä": {
+        "present": {
+            "minä": "pesen",
+            "sinä": "peset",
+            "hän": "pesee",
+            "me": "pesemme",
+            "se": "pesette",
+            "he": "pesevät"
+        }
+    },
+    "tiskata": {
+        "present": {
+            "minä": "tiskaan",
+            "sinä": "tiskaat",
+            "hän": "tiskaa",
+            "me": "tiskaamme",
+            "se": "tiskaatte",
+            "he": "tiskaavat"
+        }
+    },
+    "siivota": {
+        "present": {
+            "minä": "siivoan",
+            "sinä": "siivoat",
+            "hän": "siivoaa",
+            "me": "siivoamme",
+            "se": "siivoatte",
+            "he": "siivoavat"
+        }
+    },
+    "imuroida": {
+        "present": {
+            "minä": "imuroin",
+            "sinä": "imuroit",
+            "hän": "imuroi",
+            "me": "imuroimme",
+            "se": "imuroitte",
+            "he": "imuroivat"
+        }
+    },
+    "uida": {
+        "present": {
+            "minä": "uin",
+            "sinä": "uit",
+            "hän": "ui",
+            "me": "uimme",
+            "se": "uitte",
+            "he": "uivat"
+        }
+    },
+    "kävellä": {
+        "present": {
+            "minä": "kävelen",
+            "sinä": "kävelet",
+            "hän": "kävelee",
+            "me": "kävelemme",
+            "se": "kävelette",
+            "he": "kävelevät"
+        }
+    },
+    "pyöräillä": {
+        "present": {
+            "minä": "pyöräilen",
+            "sinä": "pyöräilet",
+            "hän": "pyöräilee",
+            "me": "pyöräilemme",
+            "se": "pyöräilette",
+            "he": "pyöräilevät"
+        }
+    },
+    "ajaa": {
+        "present": {
+            "minä": "ajan",
+            "sinä": "ajat",
+            "hän": "ajaa",
+            "me": "ajamme",
+            "se": "ajatte",
+            "he": "ajavat"
+        }
+    },
+    "juosta": {
+        "present": {
+            "minä": "juoksen",
+            "sinä": "juokset",
+            "hän": "juoksee",
+            "me": "juoksemme",
+            "se": "juoksette",
+            "he": "juoksevat"
+        }
+    },
+    "ottaa": {
+        "present": {
+            "minä": "otan",
+            "sinä": "otat",
+            "hän": "ottaa",
+            "me": "otamme",
+            "se": "otatte",
+            "he": "ottavat"
+        }
+    },
+    "antaa": {
+        "present": {
+            "minä": "annan",
+            "sinä": "annat",
+            "hän": "antaa",
+            "me": "annamme",
+            "se": "annatte",
+            "he": "antavat"
+        }
+    },
+    "lainata": {
+        "present": {
+            "minä": "lainaan",
+            "sinä": "lainaat",
+            "hän": "lainaa",
+            "me": "lainaamme",
+            "se": "lainaatte",
+            "he": "lainaavat"
+        }
+    },
+    "tavata": {
+        "present": {
+            "minä": "tapaan",
+            "sinä": "tapaat",
+            "hän": "tapaa",
+            "me": "tapaamme",
+            "se": "tapaatte",
+            "he": "tapaavat"
+        }
+    },
+    "tutustua": {
+        "present": {
+            "minä": "tutustun",
+            "sinä": "tutustut",
+            "hän": "tutustuu",
+            "me": "tutustumme",
+            "se": "tutustutte",
+            "he": "tutustuvat"
+        }
+    },
+    "tehdä": {
+        "present": {
+            "minä": "teen",
+            "sinä": "teet",
+            "hän": "tekee",
+            "me": "teemme",
+            "se": "teette",
+            "he": "tekevät"
+        }
+    },
+    "nähdä": {
+        "present": {
+            "minä": "näen",
+            "sinä": "näet",
+            "hän": "näkee",
+            "me": "näemme",
+            "se": "näette",
+            "he": "näkevät"
+        }
+    },
+    "katsoa": {
+        "present": {
+            "minä": "katson",
+            "sinä": "katsot",
+            "hän": "katsoo",
+            "me": "katsomme",
+            "se": "katsotte",
+            "he": "katsovat"
+        }
+    },
+    "tulla": {
+        "present": {
+            "minä": "tulen",
+            "sinä": "tulet",
+            "hän": "tulee",
+            "me": "tulemme",
+            "se": "tulette",
+            "he": "tulevat"
+        }
+    },
+    "mennä": {
+        "present": {
+            "minä": "menen",
+            "sinä": "menet",
+            "hän": "menee",
+            "me": "menemme",
+            "se": "menette",
+            "he": "menevät"
+        }
+    },
+    "lähteä": {
+        "present": {
+            "minä": "lähden",
+            "sinä": "lähdet",
+            "hän": "lähtee",
+            "me": "lähdemme",
+            "se": "lähdette",
+            "he": "lähtevät"
+        }
+    },
+    "jäädä": {
+        "present": {
+            "minä": "jään",
+            "sinä": "jäät",
+            "hän": "jää",
+            "me": "jäämme",
+            "se": "jäätte",
+            "he": "jäävät"
+        }
+    },
+    "saapua": {
+        "present": {
+            "minä": "saavun",
+            "sinä": "saavut",
+            "hän": "saapuu",
+            "me": "saavumme",
+            "se": "saavutte",
+            "he": "saapuvat"
+        }
+    },
+    "käydä": {
+        "present": {
+            "minä": "käyn",
+            "sinä": "käyt",
+            "hän": "käy",
+            "me": "käymme",
+            "se": "käytte",
+            "he": "käyvät"
+        }
+    },
+    "tuoda": {
+        "present": {
+            "minä": "tuon",
+            "sinä": "tuot",
+            "hän": "tuo",
+            "me": "tuomme",
+            "se": "tuotte",
+            "he": "tuovat"
+        }
+    },
+    "viedä": {
+        "present": {
+            "minä": "vien",
+            "sinä": "viet",
+            "hän": "vie",
+            "me": "viemme",
+            "se": "viette",
+            "he": "vievät"
+        }
+    },
+    "rakastaa": {
+        "present": {
+            "minä": "rakastan",
+            "sinä": "rakastat",
+            "hän": "rakastaa",
+            "me": "rakastamme",
+            "se": "rakastatte",
+            "he": "rakastavat"
+        }
+    },
+    "vihata": {
+        "present": {
+            "minä": "vihaan",
+            "sinä": "vihaat",
+            "hän": "vihaa",
+            "me": "vihaamme",
+            "se": "vihaatte",
+            "he": "vihaavat"
+        }
+    },
+    "tykätä*": {
+        "present": {}
+    },
+    "pelätä": {
+        "present": {
+            "minä": "pelkään",
+            "sinä": "pelkäät",
+            "hän": "pelkää",
+            "me": "pelkäämme",
+            "se": "pelkäätte",
+            "he": "pelkäävät"
+        }
+    },
+    "pukea": {
+        "present": {
+            "minä": "puen",
+            "sinä": "puet",
+            "hän": "pukee",
+            "me": "puemme",
+            "se": "puette",
+            "he": "pukevat"
+        }
+    },
+    "riisua": {
+        "present": {
+            "minä": "riisun",
+            "sinä": "riisut",
+            "hän": "riisuu",
+            "me": "riisumme",
+            "se": "riisutte",
+            "he": "riisuvat"
+        }
+    },
+    "maksaa": {
+        "present": {
+            "minä": "maksan",
+            "sinä": "maksat",
+            "hän": "maksaa",
+            "me": "maksamme",
+            "se": "maksatte",
+            "he": "maksavat"
+        }
+    },
+    "ostaa": {
+        "present": {
+            "minä": "ostan",
+            "sinä": "ostat",
+            "hän": "ostaa",
+            "me": "ostamme",
+            "se": "ostatte",
+            "he": "ostavat"
+        }
+    },
+    "myydä": {
+        "present": {
+            "minä": "myyn",
+            "sinä": "myyt",
+            "hän": "myy",
+            "me": "myymme",
+            "se": "myytte",
+            "he": "myyvät"
+        }
+    },
+    "kirjoittaa": {
+        "present": {
+            "minä": "kirjoitan",
+            "sinä": "kirjoitat",
+            "hän": "kirjoittaa",
+            "me": "kirjoitamme",
+            "se": "kirjoitatte",
+            "he": "kirjoittavat"
+        }
+    },
+    "lukea": {
+        "present": {
+            "minä": "luen",
+            "sinä": "luet",
+            "hän": "lukee",
+            "me": "luemme",
+            "se": "luette",
+            "he": "lukevat"
+        }
+    },
+    "kuunnella": {
+        "present": {
+            "minä": "kuuntelen",
+            "sinä": "kuuntelet",
+            "hän": "kuuntelee",
+            "me": "kuuntelemme",
+            "se": "kuuntelette",
+            "he": "kuuntelevat"
+        }
+    },
+    "kuulla": {
+        "present": {
+            "minä": "kuulen",
+            "sinä": "kuulet",
+            "hän": "kuulee",
+            "me": "kuulemme",
+            "se": "kuulette",
+            "he": "kuulevat"
+        }
+    },
+    "piirtää": {
+        "present": {
+            "minä": "piirrän",
+            "sinä": "piirrät",
+            "hän": "piirtää",
+            "me": "piirrämme",
+            "se": "piirrätte",
+            "he": "piirtävät"
+        }
+    },
+    "maalata": {
+        "present": {
+            "minä": "maalaan",
+            "sinä": "maalaat",
+            "hän": "maalaa",
+            "me": "maalaamme",
+            "se": "maalaatte",
+            "he": "maalaavat"
+        }
+    },
+    "nauraa": {
+        "present": {
+            "minä": "nauran",
+            "sinä": "naurat",
+            "hän": "nauraa",
+            "me": "nauramme",
+            "se": "nauratte",
+            "he": "nauravat"
+        }
+    },
+    "itkeä": {
+        "present": {
+            "minä": "itken",
+            "sinä": "itket",
+            "hän": "itkee",
+            "me": "itkemme",
+            "se": "itkette",
+            "he": "itkevät"
+        }
+    },
+    "hymyillä": {
+        "present": {
+            "minä": "hymyilen",
+            "sinä": "hymyilet",
+            "hän": "hymyilee",
+            "me": "hymyilemme",
+            "se": "hymyilette",
+            "he": "hymyilevät"
+        }
+    },
+    "matkustaa": {
+        "present": {
+            "minä": "matkustan",
+            "sinä": "matkustat",
+            "hän": "matkustaa",
+            "me": "matkustamme",
+            "se": "matkustatte",
+            "he": "matkustavat"
+        }
+    },
+    "muuttaa": {
+        "present": {
+            "minä": "muutan",
+            "sinä": "muutat",
+            "hän": "muuttaa",
+            "me": "muutamme",
+            "se": "muutatte",
+            "he": "muuttavat"
+        }
+    },
+    "työntää": {
+        "present": {
+            "minä": "työnnän",
+            "sinä": "työnnät",
+            "hän": "työntää",
+            "me": "työnnämme",
+            "se": "työnnätte",
+            "he": "työntävät"
+        }
+    },
+    "vetää": {
+        "present": {
+            "minä": "vedän",
+            "sinä": "vedät",
+            "hän": "vetää",
+            "me": "vedämme",
+            "se": "vedätte",
+            "he": "vetävät"
+        }
+    },
+    "nostaa": {
+        "present": {
+            "minä": "nostan",
+            "sinä": "nostat",
+            "hän": "nostaa",
+            "me": "nostamme",
+            "se": "nostatte",
+            "he": "nostavat"
+        }
+    },
+    "laskea": {
+        "present": {
+            "minä": "lasken",
+            "sinä": "lasket",
+            "hän": "laskee",
+            "me": "laskemme",
+            "se": "laskette",
+            "he": "laskevat"
+        }
+    },
+    "laittaa": {
+        "present": {
+            "minä": "laitan",
+            "sinä": "laitat",
+            "hän": "laittaa",
+            "me": "laitamme",
+            "se": "laitatte",
+            "he": "laittavat"
+        }
+    },
+    "heittää": {
+        "present": {
+            "minä": "heitän",
+            "sinä": "heität",
+            "hän": "heittää",
+            "me": "heitämme",
+            "se": "heitätte",
+            "he": "heittävät"
+        }
+    },
+    "häiritä": {
+        "present": {
+            "minä": "häiritsen",
+            "sinä": "häiritset",
+            "hän": "häiritsee",
+            "me": "häiritsemme",
+            "se": "häiritsette",
+            "he": "häiritsevät"
+        }
+    },
+    "valita": {
+        "present": {
+            "minä": "valitsen",
+            "sinä": "valitset",
+            "hän": "valitsee",
+            "me": "valitsemme",
+            "se": "valitsette",
+            "he": "valitsevat"
+        }
+    },
+    "tarvita": {
+        "present": {
+            "minä": "tarvitsen",
+            "sinä": "tarvitset",
+            "hän": "tarvitsee",
+            "me": "tarvitsemme",
+            "se": "tarvitsette",
+            "he": "tarvitsevat"
+        }
+    },
+    "hoitaa": {
+        "present": {
+            "minä": "hoidan",
+            "sinä": "hoidat",
+            "hän": "hoitaa",
+            "me": "hoidamme",
+            "se": "hoidatte",
+            "he": "hoitavat"
+        }
+    },
+    "auttaa": {
+        "present": {
+            "minä": "autan",
+            "sinä": "autat",
+            "hän": "auttaa",
+            "me": "autamme",
+            "se": "autatte",
+            "he": "auttavat"
+        }
+    },
+    "varata": {
+        "present": {
+            "minä": "varaan",
+            "sinä": "varaat",
+            "hän": "varaa",
+            "me": "varaamme",
+            "se": "varaatte",
+            "he": "varaavat"
+        }
+    },
+    "tilata": {
+        "present": {
+            "minä": "tilaan",
+            "sinä": "tilaat",
+            "hän": "tilaa",
+            "me": "tilaamme",
+            "se": "tilaatte",
+            "he": "tilaavat"
+        }
+    },
+    "asua": {
+        "present": {
+            "minä": "asun",
+            "sinä": "asut",
+            "hän": "asuu",
+            "me": "asumme",
+            "se": "asutte",
+            "he": "asuvat"
+        }
+    },
+    "syntyä": {
+        "present": {
+            "minä": "synnyn",
+            "sinä": "synnyt",
+            "hän": "syntyy",
+            "me": "synnymme",
+            "se": "synnytte",
+            "he": "syntyvät"
+        }
+    },
+    "elää": {
+        "present": {
+            "minä": "elän",
+            "sinä": "elät",
+            "hän": "elää",
+            "me": "elämme",
+            "se": "elätte",
+            "he": "elävät"
+        }
+    },
+    "kuolla": {
+        "present": {
+            "minä": "kuolen",
+            "sinä": "kuolet",
+            "hän": "kuolee",
+            "me": "kuolemme",
+            "se": "kuolette",
+            "he": "kuolevat"
+        }
+    },
+    "etsiä": {
+        "present": {
+            "minä": "etsin",
+            "sinä": "etsit",
+            "hän": "etsii",
+            "me": "etsimme",
+            "se": "etsitte",
+            "he": "etsivät"
+        }
+    },
+    "löytää": {
+        "present": {
+            "minä": "löydän",
+            "sinä": "löydät",
+            "hän": "löytää",
+            "me": "löydämme",
+            "se": "löydätte",
+            "he": "löytävät"
+        }
+    },
+    "avata": {
+        "present": {
+            "minä": "avaan",
+            "sinä": "avaat",
+            "hän": "avaa",
+            "me": "avaamme",
+            "se": "avaatte",
+            "he": "avaavat"
+        }
+    },
+    "sulkea": {
+        "present": {
+            "minä": "suljen",
+            "sinä": "suljet",
+            "hän": "sulkee",
+            "me": "suljemme",
+            "se": "suljette",
+            "he": "sulkevat"
+        }
+    },
+    "korjata": {
+        "present": {
+            "minä": "korjaan",
+            "sinä": "korjaat",
+            "hän": "korjaa",
+            "me": "korjaamme",
+            "se": "korjaatte",
+            "he": "korjaavat"
+        }
+    },
+    "riittää": {
+        "present": {
+            "minä": "riitän",
+            "sinä": "riität",
+            "hän": "riittää",
+            "me": "riitämme",
+            "se": "riitätte",
+            "he": "riittävät"
+        }
+    },
+    "laulaa": {
+        "present": {
+            "minä": "laulan",
+            "sinä": "laulat",
+            "hän": "laulaa",
+            "me": "laulamme",
+            "se": "laulatte",
+            "he": "laulavat"
         }
     }
 }
