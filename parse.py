@@ -106,7 +106,7 @@ for word in words:
     try:
         doc[word] = {
             "present": dict(zip(
-                ["minä", "sinä", "hän", "me", "se", "he"],
+                ["minä", "sinä", "hän", "me", "te", "he"],
                 [
                     "".join(x.itertext())
                     for x in HTML(
