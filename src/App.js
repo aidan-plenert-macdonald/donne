@@ -16,7 +16,8 @@ const widgets = {
           key={props.id}
           onChange={
             ({ target: { value } }) => {
-              return props.onChange(value === "" ? props.options.emptyValue : value);
+              return props.onChange(
+                value === "" ? props.options.emptyValue : value.toLowerCase());
             }
           } />
       </InputGroup>
