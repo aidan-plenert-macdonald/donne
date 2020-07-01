@@ -50,7 +50,12 @@ function App() {
   
   useEffect(
     () => {
-      setSchema({...schema, title: verb})
+      if (verb == undefined) {
+        const { title, ...filteredSchema} = schema;
+        setSchema(filteredSchema);
+      } else {
+        setSchema({...schema, title: verb});
+      }
     }, [verb]
   )
 
