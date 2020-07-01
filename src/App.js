@@ -2,6 +2,21 @@ import React, { useState, useEffect } from 'react';
 import Form from "@rjsf/core";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
+import InputGroup from 'react-bootstrap/InputGroup';
+import FormControl from 'react-bootstrap/FormControl';
+
+const widgets = {
+  TextWidget: (props) => {
+    return (
+      <InputGroup className="mb-3">
+        <InputGroup.Prepend>
+          <InputGroup.Text>{props.label}</InputGroup.Text>
+        </InputGroup.Prepend>
+        <FormControl />
+      </InputGroup>
+    )
+  }
+};
 
 function App() {
   const [schema, setSchema] = useState({});
@@ -47,14 +62,14 @@ function App() {
   );
 
   useEffect(randomVerb, [verbs]);
-  
+
   useEffect(
     () => {
       if (verb === undefined) {
-        const { title, ...filteredSchema} = schema;
+        const { title, ...filteredSchema } = schema;
         setSchema(filteredSchema);
       } else {
-        setSchema({...schema, title: verb});
+        setSchema({ ...schema, title: verb });
       }
     }, [verb]
   )
@@ -65,10 +80,20 @@ function App() {
         <Row>
           <Form
             key={verb}
-            schema={schema} 
+            schema={schema}
             validate={validate}
             showErrorList={false}
             onSubmit={randomVerb}
+            widgets={widgets}
+            FieldTemplate={
+              (props) => {
+                return (
+                  <div>
+                    {props.children}
+                    {props.errors}
+                  </div>
+                );
+            }}
           />
         </Row>
       </Container>

@@ -21,13 +21,13 @@ afterEach(() => server.resetHandlers())
 afterAll(() => server.close())
 
 test('has correct pronouns', async () => {
-  const { getByText, getByLabelText} = render(<App />);
+  const { getByText } = render(<App />);
   await waitFor(() => getByText("Present Tense"));
 
-  expect(getByLabelText("minä")).toBeInTheDocument();
-  expect(getByLabelText("sinä")).toBeInTheDocument();
-  expect(getByLabelText("hän")).toBeInTheDocument();
-  expect(getByLabelText("me")).toBeInTheDocument();
-  expect(getByLabelText("te")).toBeInTheDocument();
-  expect(getByLabelText("he")).toBeInTheDocument();
+  expect(getByText("minä")).toBeInTheDocument();
+  expect(getByText("sinä")).toBeInTheDocument();
+  expect(getByText("hän")).toBeInTheDocument();
+  expect(getByText("me")).toBeInTheDocument();
+  expect(getByText("te")).toBeInTheDocument();
+  expect(getByText("he")).toBeInTheDocument();
 });
