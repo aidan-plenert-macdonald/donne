@@ -12,7 +12,13 @@ const widgets = {
         <InputGroup.Prepend>
           <InputGroup.Text>{props.label}</InputGroup.Text>
         </InputGroup.Prepend>
-        <FormControl />
+        <FormControl
+          key={props.id}
+          onChange={
+            ({ target: { value } }) => {
+              return props.onChange(value === "" ? props.options.emptyValue : value);
+            }
+          } />
       </InputGroup>
     )
   }
