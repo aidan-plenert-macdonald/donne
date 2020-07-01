@@ -19,7 +19,7 @@ function App() {
       tense => {
         Object.keys(expected[tense]).forEach(
           pronoun => {
-            if (expected[tense][pronoun] != formData[tense][pronoun]) {
+            if (expected[tense][pronoun] !== formData[tense][pronoun]) {
               errors[tense][pronoun].addError("Not correct: " + expected[tense][pronoun]);
             }
           }
@@ -50,7 +50,7 @@ function App() {
   
   useEffect(
     () => {
-      if (verb == undefined) {
+      if (verb === undefined) {
         const { title, ...filteredSchema} = schema;
         setSchema(filteredSchema);
       } else {
