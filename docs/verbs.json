@@ -1,5 +1,6 @@
 {
     "istua": {
+        "_def": "to sit",
         "present": {
             "minä": "istun",
             "sinä": "istut",
@@ -10,6 +11,7 @@
         }
     },
     "seisoa": {
+        "_def": "to stand",
         "present": {
             "minä": "seison",
             "sinä": "seisot",
@@ -20,6 +22,7 @@
         }
     },
     "syödä": {
+        "_def": "to eat",
         "present": {
             "minä": "syön",
             "sinä": "syöt",
@@ -30,6 +33,7 @@
         }
     },
     "juoda": {
+        "_def": "to drink",
         "present": {
             "minä": "juon",
             "sinä": "juot",
@@ -40,6 +44,7 @@
         }
     },
     "odottaa": {
+        "_def": "to wait",
         "present": {
             "minä": "odotan",
             "sinä": "odotat",
@@ -50,6 +55,7 @@
         }
     },
     "ymmärtää": {
+        "_def": "to understand",
         "present": {
             "minä": "ymmärrän",
             "sinä": "ymmärrät",
@@ -60,6 +66,7 @@
         }
     },
     "muistaa": {
+        "_def": "to remember",
         "present": {
             "minä": "muistan",
             "sinä": "muistat",
@@ -70,6 +77,7 @@
         }
     },
     "unohtaa": {
+        "_def": "to forget",
         "present": {
             "minä": "unohdan",
             "sinä": "unohdat",
@@ -80,6 +88,7 @@
         }
     },
     "ajatella": {
+        "_def": "to think",
         "present": {
             "minä": "ajattelen",
             "sinä": "ajattelet",
@@ -90,6 +99,7 @@
         }
     },
     "tietää": {
+        "_def": "to know",
         "present": {
             "minä": "tiedän",
             "sinä": "tiedät",
@@ -100,6 +110,7 @@
         }
     },
     "osata": {
+        "_def": "to be able to",
         "present": {
             "minä": "osaan",
             "sinä": "osaat",
@@ -110,6 +121,7 @@
         }
     },
     "opiskella": {
+        "_def": "to study",
         "present": {
             "minä": "opiskelen",
             "sinä": "opiskelet",
@@ -120,6 +132,7 @@
         }
     },
     "oppia": {
+        "_def": "to learn",
         "present": {
             "minä": "opin",
             "sinä": "opit",
@@ -130,6 +143,7 @@
         }
     },
     "kysyä": {
+        "_def": "to ask",
         "present": {
             "minä": "kysyn",
             "sinä": "kysyt",
@@ -140,6 +154,7 @@
         }
     },
     "vastata": {
+        "_def": "to answer",
         "present": {
             "minä": "vastaan",
             "sinä": "vastaat",
@@ -150,6 +165,7 @@
         }
     },
     "pyytää": {
+        "_def": "to request",
         "present": {
             "minä": "pyydän",
             "sinä": "pyydät",
@@ -160,6 +176,7 @@
         }
     },
     "sanoa": {
+        "_def": "to say",
         "present": {
             "minä": "sanon",
             "sinä": "sanot",
@@ -170,6 +187,7 @@
         }
     },
     "kertoa": {
+        "_def": "to tell",
         "present": {
             "minä": "kerron",
             "sinä": "kerrot",
@@ -180,6 +198,7 @@
         }
     },
     "keskustella": {
+        "_def": "to chat",
         "present": {
             "minä": "keskustelen",
             "sinä": "keskustelet",
@@ -190,6 +209,7 @@
         }
     },
     "nukkua": {
+        "_def": "to sleep",
         "present": {
             "minä": "nukun",
             "sinä": "nukut",
@@ -200,6 +220,7 @@
         }
     },
     "herätä": {
+        "_def": "to wake up",
         "present": {
             "minä": "herään",
             "sinä": "heräät",
@@ -210,6 +231,7 @@
         }
     },
     "nousta": {
+        "_def": "to get up",
         "present": {
             "minä": "nousen",
             "sinä": "nouset",
@@ -220,6 +242,7 @@
         }
     },
     "maata": {
+        "_def": "to lay down",
         "present": {
             "minä": "makaan",
             "sinä": "makaat",
@@ -230,6 +253,7 @@
         }
     },
     "pestä": {
+        "_def": "to wash",
         "present": {
             "minä": "pesen",
             "sinä": "peset",
@@ -240,6 +264,7 @@
         }
     },
     "tiskata": {
+        "_def": "to wash dishes",
         "present": {
             "minä": "tiskaan",
             "sinä": "tiskaat",
@@ -250,6 +275,7 @@
         }
     },
     "siivota": {
+        "_def": "to clean",
         "present": {
             "minä": "siivoan",
             "sinä": "siivoat",
@@ -260,6 +286,7 @@
         }
     },
     "imuroida": {
+        "_def": "to vacuum",
         "present": {
             "minä": "imuroin",
             "sinä": "imuroit",
@@ -270,6 +297,7 @@
         }
     },
     "uida": {
+        "_def": "to swim",
         "present": {
             "minä": "uin",
             "sinä": "uit",
@@ -280,6 +308,7 @@
         }
     },
     "kävellä": {
+        "_def": "to walk",
         "present": {
             "minä": "kävelen",
             "sinä": "kävelet",
@@ -290,6 +319,7 @@
         }
     },
     "pyöräillä": {
+        "_def": "to ride a bike",
         "present": {
             "minä": "pyöräilen",
             "sinä": "pyöräilet",
@@ -300,6 +330,7 @@
         }
     },
     "ajaa": {
+        "_def": "to drive",
         "present": {
             "minä": "ajan",
             "sinä": "ajat",
@@ -310,6 +341,7 @@
         }
     },
     "juosta": {
+        "_def": "to run",
         "present": {
             "minä": "juoksen",
             "sinä": "juokset",
@@ -320,6 +352,7 @@
         }
     },
     "ottaa": {
+        "_def": "to take",
         "present": {
             "minä": "otan",
             "sinä": "otat",
@@ -330,6 +363,7 @@
         }
     },
     "antaa": {
+        "_def": "to give",
         "present": {
             "minä": "annan",
             "sinä": "annat",
@@ -340,6 +374,7 @@
         }
     },
     "lainata": {
+        "_def": "to borrow / lend",
         "present": {
             "minä": "lainaan",
             "sinä": "lainaat",
@@ -350,6 +385,7 @@
         }
     },
     "tavata": {
+        "_def": "to meet",
         "present": {
             "minä": "tapaan",
             "sinä": "tapaat",
@@ -360,6 +396,7 @@
         }
     },
     "tutustua": {
+        "_def": "to get to know",
         "present": {
             "minä": "tutustun",
             "sinä": "tutustut",
@@ -370,6 +407,7 @@
         }
     },
     "tehdä": {
+        "_def": "to do",
         "present": {
             "minä": "teen",
             "sinä": "teet",
@@ -380,6 +418,7 @@
         }
     },
     "nähdä": {
+        "_def": "to see",
         "present": {
             "minä": "näen",
             "sinä": "näet",
@@ -390,6 +429,7 @@
         }
     },
     "katsoa": {
+        "_def": "to watch",
         "present": {
             "minä": "katson",
             "sinä": "katsot",
@@ -400,6 +440,7 @@
         }
     },
     "tulla": {
+        "_def": "to come",
         "present": {
             "minä": "tulen",
             "sinä": "tulet",
@@ -410,6 +451,7 @@
         }
     },
     "mennä": {
+        "_def": "to go",
         "present": {
             "minä": "menen",
             "sinä": "menet",
@@ -420,6 +462,7 @@
         }
     },
     "lähteä": {
+        "_def": "to leave",
         "present": {
             "minä": "lähden",
             "sinä": "lähdet",
@@ -430,6 +473,7 @@
         }
     },
     "jäädä": {
+        "_def": "to stay",
         "present": {
             "minä": "jään",
             "sinä": "jäät",
@@ -440,6 +484,7 @@
         }
     },
     "saapua": {
+        "_def": "to arrive",
         "present": {
             "minä": "saavun",
             "sinä": "saavut",
@@ -450,6 +495,7 @@
         }
     },
     "käydä": {
+        "_def": "to visit",
         "present": {
             "minä": "käyn",
             "sinä": "käyt",
@@ -460,6 +506,7 @@
         }
     },
     "tuoda": {
+        "_def": "to bring",
         "present": {
             "minä": "tuon",
             "sinä": "tuot",
@@ -470,6 +517,7 @@
         }
     },
     "viedä": {
+        "_def": "to take swh",
         "present": {
             "minä": "vien",
             "sinä": "viet",
@@ -480,6 +528,7 @@
         }
     },
     "rakastaa": {
+        "_def": "to love",
         "present": {
             "minä": "rakastan",
             "sinä": "rakastat",
@@ -490,6 +539,7 @@
         }
     },
     "vihata": {
+        "_def": "to hate",
         "present": {
             "minä": "vihaan",
             "sinä": "vihaat",
@@ -499,10 +549,8 @@
             "he": "vihaavat"
         }
     },
-    "tykätä*": {
-        "present": {}
-    },
     "pelätä": {
+        "_def": "to fear",
         "present": {
             "minä": "pelkään",
             "sinä": "pelkäät",
@@ -513,6 +561,7 @@
         }
     },
     "pukea": {
+        "_def": "to dress",
         "present": {
             "minä": "puen",
             "sinä": "puet",
@@ -523,6 +572,7 @@
         }
     },
     "riisua": {
+        "_def": "to undress",
         "present": {
             "minä": "riisun",
             "sinä": "riisut",
@@ -533,6 +583,7 @@
         }
     },
     "maksaa": {
+        "_def": "to pay",
         "present": {
             "minä": "maksan",
             "sinä": "maksat",
@@ -543,6 +594,7 @@
         }
     },
     "ostaa": {
+        "_def": "to buy",
         "present": {
             "minä": "ostan",
             "sinä": "ostat",
@@ -553,6 +605,7 @@
         }
     },
     "myydä": {
+        "_def": "to sell",
         "present": {
             "minä": "myyn",
             "sinä": "myyt",
@@ -563,6 +616,7 @@
         }
     },
     "kirjoittaa": {
+        "_def": "to write",
         "present": {
             "minä": "kirjoitan",
             "sinä": "kirjoitat",
@@ -573,6 +627,7 @@
         }
     },
     "lukea": {
+        "_def": "to read",
         "present": {
             "minä": "luen",
             "sinä": "luet",
@@ -583,6 +638,7 @@
         }
     },
     "kuunnella": {
+        "_def": "to listen",
         "present": {
             "minä": "kuuntelen",
             "sinä": "kuuntelet",
@@ -593,6 +649,7 @@
         }
     },
     "kuulla": {
+        "_def": "to hear",
         "present": {
             "minä": "kuulen",
             "sinä": "kuulet",
@@ -603,6 +660,7 @@
         }
     },
     "piirtää": {
+        "_def": "to draw",
         "present": {
             "minä": "piirrän",
             "sinä": "piirrät",
@@ -613,6 +671,7 @@
         }
     },
     "maalata": {
+        "_def": "to paint",
         "present": {
             "minä": "maalaan",
             "sinä": "maalaat",
@@ -623,6 +682,7 @@
         }
     },
     "nauraa": {
+        "_def": "to laugh",
         "present": {
             "minä": "nauran",
             "sinä": "naurat",
@@ -633,6 +693,7 @@
         }
     },
     "itkeä": {
+        "_def": "to cry",
         "present": {
             "minä": "itken",
             "sinä": "itket",
@@ -643,6 +704,7 @@
         }
     },
     "hymyillä": {
+        "_def": "to smile",
         "present": {
             "minä": "hymyilen",
             "sinä": "hymyilet",
@@ -653,6 +715,7 @@
         }
     },
     "matkustaa": {
+        "_def": "to travel",
         "present": {
             "minä": "matkustan",
             "sinä": "matkustat",
@@ -663,6 +726,7 @@
         }
     },
     "muuttaa": {
+        "_def": "to move house",
         "present": {
             "minä": "muutan",
             "sinä": "muutat",
@@ -673,6 +737,7 @@
         }
     },
     "työntää": {
+        "_def": "to push",
         "present": {
             "minä": "työnnän",
             "sinä": "työnnät",
@@ -683,6 +748,7 @@
         }
     },
     "vetää": {
+        "_def": "to pull",
         "present": {
             "minä": "vedän",
             "sinä": "vedät",
@@ -693,6 +759,7 @@
         }
     },
     "nostaa": {
+        "_def": "to lift",
         "present": {
             "minä": "nostan",
             "sinä": "nostat",
@@ -703,6 +770,7 @@
         }
     },
     "laskea": {
+        "_def": "to count",
         "present": {
             "minä": "lasken",
             "sinä": "lasket",
@@ -713,6 +781,7 @@
         }
     },
     "laittaa": {
+        "_def": "to put",
         "present": {
             "minä": "laitan",
             "sinä": "laitat",
@@ -723,6 +792,7 @@
         }
     },
     "heittää": {
+        "_def": "to throw",
         "present": {
             "minä": "heitän",
             "sinä": "heität",
@@ -733,6 +803,7 @@
         }
     },
     "häiritä": {
+        "_def": "to disturb",
         "present": {
             "minä": "häiritsen",
             "sinä": "häiritset",
@@ -743,6 +814,7 @@
         }
     },
     "valita": {
+        "_def": "to choose",
         "present": {
             "minä": "valitsen",
             "sinä": "valitset",
@@ -753,6 +825,7 @@
         }
     },
     "tarvita": {
+        "_def": "to need",
         "present": {
             "minä": "tarvitsen",
             "sinä": "tarvitset",
@@ -763,6 +836,7 @@
         }
     },
     "hoitaa": {
+        "_def": "to take care of",
         "present": {
             "minä": "hoidan",
             "sinä": "hoidat",
@@ -773,6 +847,7 @@
         }
     },
     "auttaa": {
+        "_def": "to help",
         "present": {
             "minä": "autan",
             "sinä": "autat",
@@ -783,6 +858,7 @@
         }
     },
     "varata": {
+        "_def": "to reserve",
         "present": {
             "minä": "varaan",
             "sinä": "varaat",
@@ -793,6 +869,7 @@
         }
     },
     "tilata": {
+        "_def": "to order",
         "present": {
             "minä": "tilaan",
             "sinä": "tilaat",
@@ -803,6 +880,7 @@
         }
     },
     "asua": {
+        "_def": "to live swh",
         "present": {
             "minä": "asun",
             "sinä": "asut",
@@ -813,6 +891,7 @@
         }
     },
     "syntyä": {
+        "_def": "to be born",
         "present": {
             "minä": "synnyn",
             "sinä": "synnyt",
@@ -823,6 +902,7 @@
         }
     },
     "elää": {
+        "_def": "to be alive",
         "present": {
             "minä": "elän",
             "sinä": "elät",
@@ -833,6 +913,7 @@
         }
     },
     "kuolla": {
+        "_def": "to die",
         "present": {
             "minä": "kuolen",
             "sinä": "kuolet",
@@ -843,6 +924,7 @@
         }
     },
     "etsiä": {
+        "_def": "to search",
         "present": {
             "minä": "etsin",
             "sinä": "etsit",
@@ -853,6 +935,7 @@
         }
     },
     "löytää": {
+        "_def": "to find",
         "present": {
             "minä": "löydän",
             "sinä": "löydät",
@@ -863,6 +946,7 @@
         }
     },
     "avata": {
+        "_def": "to open",
         "present": {
             "minä": "avaan",
             "sinä": "avaat",
@@ -873,6 +957,7 @@
         }
     },
     "sulkea": {
+        "_def": "to close",
         "present": {
             "minä": "suljen",
             "sinä": "suljet",
@@ -883,6 +968,7 @@
         }
     },
     "korjata": {
+        "_def": "to fix",
         "present": {
             "minä": "korjaan",
             "sinä": "korjaat",
@@ -893,6 +979,7 @@
         }
     },
     "riittää": {
+        "_def": "to be enough",
         "present": {
             "minä": "riitän",
             "sinä": "riität",
@@ -903,6 +990,7 @@
         }
     },
     "laulaa": {
+        "_def": "to sing",
         "present": {
             "minä": "laulan",
             "sinä": "laulat",
@@ -910,6 +998,50 @@
             "me": "laulamme",
             "te": "laulatte",
             "he": "laulavat"
+        }
+    },
+    "tapahtua": {
+        "_def": "to happen",
+        "present": {
+            "minä": "tapahdun",
+            "sinä": "tapahdut",
+            "hän": "tapahtuu",
+            "me": "tapahdumme",
+            "te": "tapahdutte",
+            "he": "tapahtuvat"
+        }
+    },
+    "alkaa": {
+        "_def": "to start",
+        "present": {
+            "minä": "alan",
+            "sinä": "alat",
+            "hän": "alkaa",
+            "me": "alamme",
+            "te": "alatte",
+            "he": "alkavat"
+        }
+    },
+    "aloittaa": {
+        "_def": "to begin",
+        "present": {
+            "minä": "aloitan",
+            "sinä": "aloitat",
+            "hän": "aloittaa",
+            "me": "aloitamme",
+            "te": "aloitatte",
+            "he": "aloittavat"
+        }
+    },
+    "loppua": {
+        "_def": "to end",
+        "present": {
+            "minä": "lopun",
+            "sinä": "loput",
+            "hän": "loppuu",
+            "me": "lopumme",
+            "te": "loputte",
+            "he": "loppuvat"
         }
     }
 }
