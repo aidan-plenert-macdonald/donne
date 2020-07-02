@@ -76,7 +76,7 @@ function App() {
         const { title, ...filteredSchema } = schema;
         setSchema(filteredSchema);
       } else {
-        setSchema({ ...schema, title: verb });
+        setSchema({...schema, title: verb, description: verbs[verb]._def});
       }
     }, [verb]
   )
