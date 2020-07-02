@@ -1,7 +1,7 @@
 import React from 'react';
 import { rest } from 'msw'
 import { setupServer } from 'msw/node'
-import { render, waitFor } from '@testing-library/react';
+import { render, waitFor, fireEvent } from '@testing-library/react';
 import App from './App';
 
 import verbs from '../public/verbs.json';
@@ -30,4 +30,16 @@ test('has correct pronouns', async () => {
   expect(getByText("me")).toBeInTheDocument();
   expect(getByText("te")).toBeInTheDocument();
   expect(getByText("he")).toBeInTheDocument();
+});
+
+test('errors render', async () => {
+  const { getByText, getAllByRole, getAllByText } = render(<App />);
+  await waitFor(() => getByText("Present Tense"));
+
+  fireEvent.click(getByText("Submit"));
+  const errors = await waitFor(() => getAllByText(/Not correct/));
+  const inputs = getAllByRole("input");
+
+  expect(inputs).toHaveLength(6);
+  expect(errors).toHaveLength(6);
 });

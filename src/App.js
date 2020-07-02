@@ -13,7 +13,8 @@ const widgets = {
           <InputGroup.Text>{props.label}</InputGroup.Text>
         </InputGroup.Prepend>
         <FormControl
-          key={props.id}
+          id={props.id}
+          role="input"
           onChange={
             ({ target: { value } }) => {
               return props.onChange(
@@ -37,9 +38,9 @@ function App() {
   const validate = (formData, errors) => {
     const expected = verbs[verb];
 
-    Object.keys(expected).forEach(
+    Object.keys(schema.properties).forEach(
       tense => {
-        Object.keys(expected[tense]).forEach(
+        Object.keys(schema.properties[tense].properties).forEach(
           pronoun => {
             if (expected[tense][pronoun] !== formData[tense][pronoun]) {
               errors[tense][pronoun].addError("Not correct: " + expected[tense][pronoun]);
