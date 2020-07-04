@@ -34,6 +34,14 @@ function App() {
     const v = Object.keys(verbs);
     setVerb(v[Math.floor(Math.random() * v.length)]);
   }
+  const updatedSchema = (s, v) => {
+    if (v === undefined) {
+      const { title, ...filteredSchema } = s;
+      return filteredSchema;
+    } else {
+      return { ...s, title: v, description: verbs[v]._def};
+    }
+  }
 
   const validate = (formData, errors) => {
     const expected = verbs[verb];
@@ -57,7 +65,7 @@ function App() {
     () => {
       fetch(`${process.env.PUBLIC_URL}/verbs.schema.json`)
         .then(res => res.json())
-        .then(res => setSchema(res))
+        .then(res => setSchema(updatedSchema(res, verb)))
     }, []
   );
 
@@ -73,12 +81,7 @@ function App() {
 
   useEffect(
     () => {
-      if (verb === undefined) {
-        const { title, ...filteredSchema } = schema;
-        setSchema(filteredSchema);
-      } else {
-        setSchema({...schema, title: verb, description: verbs[verb]._def});
-      }
+      setSchema(s => updatedSchema(s, verb))
     }, [verb]
   )
 

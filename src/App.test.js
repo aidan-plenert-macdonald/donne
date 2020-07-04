@@ -24,12 +24,12 @@ test('has correct pronouns', async () => {
   const { getByText } = render(<App />);
   await waitFor(() => getByText("Present Tense"));
 
-  expect(getByText("minä")).toBeInTheDocument();
-  expect(getByText("sinä")).toBeInTheDocument();
-  expect(getByText("hän")).toBeInTheDocument();
-  expect(getByText("me")).toBeInTheDocument();
-  expect(getByText("te")).toBeInTheDocument();
-  expect(getByText("he")).toBeInTheDocument();
+  expect(await waitFor(() => getByText("minä"))).toBeInTheDocument();
+  expect(await waitFor(() => getByText("sinä"))).toBeInTheDocument();
+  expect(await waitFor(() => getByText("hän"))).toBeInTheDocument();
+  expect(await waitFor(() => getByText("me"))).toBeInTheDocument();
+  expect(await waitFor(() => getByText("te"))).toBeInTheDocument();
+  expect(await waitFor(() => getByText("he"))).toBeInTheDocument();
 });
 
 test('errors render', async () => {
