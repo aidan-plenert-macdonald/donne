@@ -26,7 +26,7 @@ const widgets = {
   }
 };
 
-function App() {
+function App(props) {
   const [schema, setSchema] = useState({});
   const [verbs, setVerbs] = useState({});
   const [verb, setVerb] = useState(undefined);
@@ -63,18 +63,18 @@ function App() {
 
   useEffect(
     () => {
-      fetch(`${process.env.PUBLIC_URL}/verbs.schema.json`)
+      fetch(`${process.env.PUBLIC_URL}/${props.schema}`)
         .then(res => res.json())
         .then(res => setSchema(updatedSchema(res, verb)))
-    }, []
+    }, [props.schema]
   );
 
   useEffect(
     () => {
-      fetch(`${process.env.PUBLIC_URL}/verbs.json`)
+      fetch(`${process.env.PUBLIC_URL}/${props.list}`)
         .then(res => res.json())
         .then(res => setVerbs(res))
-    }, []
+    }, [props.list]
   );
 
   useEffect(randomVerb, [verbs]);

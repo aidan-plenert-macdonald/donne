@@ -12,7 +12,7 @@ ReactDOM.render(
     <Navbar bg="dark" variant="dark">
       <Navbar.Brand>Donne with Finnish</Navbar.Brand>
     </Navbar>
-    <App />
+    <App schema="verbs.schema.json" list="verbs.json" />
   </React.StrictMode>,
   document.getElementById('root')
 );
