@@ -101,39 +101,33 @@
     "asia": {
         "s": {
             "nom": "asia",
-            "gen": "asiae",
+            "gen": "asian",
             "par": "asiaa",
             "ill": "asiaan",
             "ine": "asiassa",
             "ela": "asiasta",
             "ade": "asialla",
-            "abl": "asi\u0101",
+            "abl": "asialta",
             "all": "asialle",
             "ess": "asiana",
             "tra": "asiaksi",
             "abe": "asiatta",
-            "dat": "asiae",
-            "acc": "asiam",
-            "voc": "asia",
             "_stem": "asia"
         },
         "p": {
-            "nom": "asiae",
-            "gen": "asi\u0101rum",
+            "nom": "asiat",
+            "gen": "asioitten",
             "par": "asioita",
             "ill": "asioihin",
             "ine": "asioissa",
             "ela": "asioista",
             "ade": "asioilla",
-            "abl": "asi\u012bs",
+            "abl": "asioilta",
             "all": "asioille",
             "ess": "asioina",
             "tra": "asioiksi",
             "ist": "asioin",
             "abe": "asioitta",
-            "dat": "asi\u012bs",
-            "acc": "asi\u0101s",
-            "voc": "asiae",
             "_stem": "asioi"
         }
     },
@@ -184,7 +178,7 @@
             "ess": "ihmisen\u00e4",
             "tra": "ihmiseksi",
             "abe": "ihmisett\u00e4",
-            "_stem": "ihmisess\u00e4"
+            "_stem": "ihmise"
         },
         "p": {
             "nom": "ihmiset",
@@ -200,7 +194,7 @@
             "tra": "ihmisiksi",
             "ist": "ihmisin",
             "abe": "ihmisitt\u00e4",
-            "_stem": "ihmisiss\u00e4"
+            "_stem": "ihmisi"
         }
     },
     "mies": {
@@ -217,7 +211,7 @@
             "ess": "miehen\u00e4",
             "tra": "mieheksi",
             "abe": "miehett\u00e4",
-            "_stem": "miehess\u00e4"
+            "_stem": "miehe"
         },
         "p": {
             "nom": "miehet",
@@ -233,7 +227,7 @@
             "tra": "miehiksi",
             "ist": "miehin",
             "abe": "miehitt\u00e4",
-            "_stem": "miehiss\u00e4"
+            "_stem": "miehi"
         }
     },
     "aika": {
@@ -283,7 +277,7 @@
             "ess": "ty\u00f6n\u00e4",
             "tra": "ty\u00f6ksi",
             "abe": "ty\u00f6tt\u00e4",
-            "_stem": "ty\u00f6ss\u00e4"
+            "_stem": "ty\u00f6"
         },
         "p": {
             "nom": "ty\u00f6t",
@@ -299,7 +293,7 @@
             "tra": "t\u00f6iksi",
             "ist": "t\u00f6in",
             "abe": "t\u00f6itt\u00e4",
-            "_stem": "t\u00f6iss\u00e4"
+            "_stem": "t\u00f6i"
         }
     },
     "mieli": {
@@ -316,7 +310,7 @@
             "ess": "mielen\u00e4",
             "tra": "mieleksi",
             "abe": "mielett\u00e4",
-            "_stem": "mieless\u00e4"
+            "_stem": "miele"
         },
         "p": {
             "nom": "mielet",
@@ -332,7 +326,7 @@
             "tra": "mieliksi",
             "ist": "mielin",
             "abe": "mielitt\u00e4",
-            "_stem": "mieliss\u00e4"
+            "_stem": "mieli"
         }
     },
     "kaupunki": {
@@ -371,7 +365,7 @@
     "osa": {
         "s": {
             "nom": "osa",
-            "gen": "osas",
+            "gen": "osan",
             "par": "osaa",
             "ill": "osaan",
             "ine": "osassa",
@@ -382,16 +376,11 @@
             "ess": "osana",
             "tra": "osaksi",
             "abe": "osatta",
-            "acc": "osu",
-            "dat": "osai",
-            "ins": "osu",
-            "loc": "os\u0101",
-            "voc": "osa",
             "_stem": "osa"
         },
         "p": {
-            "nom": "osas",
-            "gen": "osu",
+            "nom": "osat",
+            "gen": "osien",
             "par": "osia",
             "ill": "osiin",
             "ine": "osissa",
@@ -403,11 +392,6 @@
             "tra": "osiksi",
             "ist": "osin",
             "abe": "ositta",
-            "acc": "osas",
-            "dat": "os\u0101m",
-            "ins": "os\u0101m",
-            "loc": "os\u0101s",
-            "voc": "osas",
             "_stem": "osi"
         }
     },
@@ -491,7 +475,7 @@
             "ess": "p\u00e4iv\u00e4n\u00e4",
             "tra": "p\u00e4iv\u00e4ksi",
             "abe": "p\u00e4iv\u00e4tt\u00e4",
-            "_stem": "p\u00e4iv\u00e4ss\u00e4"
+            "_stem": "p\u00e4iv\u00e4"
         },
         "p": {
             "nom": "p\u00e4iv\u00e4t",
@@ -507,7 +491,7 @@
             "tra": "p\u00e4iviksi",
             "ist": "p\u00e4ivin",
             "abe": "p\u00e4ivitt\u00e4",
-            "_stem": "p\u00e4iviss\u00e4"
+            "_stem": "p\u00e4ivi"
         }
     },
     "hallitus": {
@@ -722,7 +706,7 @@
             "ess": "yrityksen\u00e4",
             "tra": "yritykseksi",
             "abe": "yrityksett\u00e4",
-            "_stem": "yrityksess\u00e4"
+            "_stem": "yritykse"
         },
         "p": {
             "nom": "yritykset",
@@ -738,7 +722,7 @@
             "tra": "yrityksiksi",
             "ist": "yrityksin",
             "abe": "yrityksitt\u00e4",
-            "_stem": "yrityksiss\u00e4"
+            "_stem": "yrityksi"
         }
     },
     "alku": {
@@ -746,54 +730,32 @@
             "nom": "alku",
             "gen": "alun",
             "par": "alkua",
-            "ill": "alkuba",
-            "ine": "alkuban",
-            "ela": "alkub\u00f3l",
-            "ade": "alkun\u00e1l",
-            "abl": "alkut\u00f3l",
-            "all": "alkuhoz",
+            "ill": "alkuun",
+            "ine": "alussa",
+            "ela": "alusta",
+            "ade": "alulla",
+            "abl": "alulta",
+            "all": "alulle",
             "ess": "alkuna",
-            "tra": "alkuv\u00e1",
+            "tra": "aluksi",
             "abe": "alutta",
-            "acc": "alkut",
-            "dat": "alkunak",
-            "ins": "alkuval",
-            "cfi": "alku\u00e9rt",
-            "ter": "alkuig",
-            "esf": "alkuk\u00e9nt",
-            "spe": "alkun",
-            "sbl": "alkura",
-            "del": "alkur\u00f3l",
-            "np1": "alku\u00e9",
-            "np2": "alku\u00e9i",
-            "_stem": "alkuban"
+            "_stem": "alu"
         },
         "p": {
-            "nom": "alkuk",
+            "nom": "alut",
             "gen": "alkujen",
             "par": "alkuja",
-            "ill": "alkukba",
-            "ine": "alkukban",
-            "ela": "alkukb\u00f3l",
-            "ade": "alkukn\u00e1l",
-            "abl": "alkukt\u00f3l",
-            "all": "alkukhoz",
+            "ill": "alkuihin",
+            "ine": "aluissa",
+            "ela": "aluista",
+            "ade": "aluilla",
+            "abl": "aluilta",
+            "all": "aluille",
             "ess": "alkuina",
-            "tra": "alkukk\u00e1",
+            "tra": "aluiksi",
             "ist": "aluin",
             "abe": "aluitta",
-            "acc": "alkukat",
-            "dat": "alkuknak",
-            "ins": "alkukkal",
-            "cfi": "alkuk\u00e9rt",
-            "ter": "alkukig",
-            "esf": "alkukk\u00e9nt",
-            "spe": "alkukon",
-            "sbl": "alkukra",
-            "del": "alkukr\u00f3l",
-            "np1": "alkuk\u00e9",
-            "np2": "alkuk\u00e9i",
-            "_stem": "alkukban"
+            "_stem": "alui"
         }
     },
     "paikka": {
@@ -829,39 +791,6 @@
             "_stem": "paikoi"
         }
     },
-    "tilanne": {
-        "s": {
-            "nom": "tilanne",
-            "gen": "tilanne",
-            "par": "tilaanne",
-            "ill": "tilaanne",
-            "ine": "tilassanne",
-            "ela": "tilastanne",
-            "ade": "tilallanne",
-            "abl": "tilaltanne",
-            "all": "tilallenne",
-            "ess": "tilananne",
-            "tra": "tilaksenne",
-            "abe": "tilattanne",
-            "_stem": "tilassanne"
-        },
-        "p": {
-            "nom": "tilanne",
-            "gen": "tilojenne",
-            "par": "tilojanne",
-            "ill": "tiloihinne",
-            "ine": "tiloissanne",
-            "ela": "tiloistanne",
-            "ade": "tiloillanne",
-            "abl": "tiloiltanne",
-            "all": "tiloillenne",
-            "ess": "tiloinanne",
-            "tra": "tiloiksenne",
-            "ist": "tiloinne",
-            "abe": "tiloittanne",
-            "_stem": "tiloissanne"
-        }
-    },
     "presidentti": {
         "s": {
             "nom": "presidentti",
@@ -876,7 +805,7 @@
             "ess": "presidenttin\u00e4",
             "tra": "presidentiksi",
             "abe": "presidentitt\u00e4",
-            "_stem": "presidentiss\u00e4"
+            "_stem": "presidenti"
         },
         "p": {
             "nom": "presidentit",
@@ -892,7 +821,7 @@
             "tra": "presidenteiksi",
             "ist": "presidentein",
             "abe": "presidenteitt\u00e4",
-            "_stem": "presidenteiss\u00e4"
+            "_stem": "presidentei"
         }
     },
     "tieto": {
@@ -964,7 +893,7 @@
     "tapa": {
         "s": {
             "nom": "tapa",
-            "gen": "tapas",
+            "gen": "tavan",
             "par": "tapaa",
             "ill": "tapaan",
             "ine": "tavassa",
@@ -975,16 +904,11 @@
             "ess": "tapana",
             "tra": "tavaksi",
             "abe": "tavatta",
-            "acc": "tapu",
-            "dat": "tapai",
-            "ins": "tapu",
-            "loc": "tap\u0101",
-            "voc": "tapa",
             "_stem": "tava"
         },
         "p": {
-            "nom": "tapas",
-            "gen": "tapu",
+            "nom": "tavat",
+            "gen": "tapojen",
             "par": "tapoja",
             "ill": "tapoihin",
             "ine": "tavoissa",
@@ -996,11 +920,6 @@
             "tra": "tavoiksi",
             "ist": "tavoin",
             "abe": "tavoitta",
-            "acc": "tapas",
-            "dat": "tap\u0101m",
-            "ins": "tap\u0101m",
-            "loc": "tap\u0101s",
-            "voc": "tapas",
             "_stem": "tavoi"
         }
     },
@@ -1051,7 +970,7 @@
             "ess": "m\u00e4\u00e4r\u00e4n\u00e4",
             "tra": "m\u00e4\u00e4r\u00e4ksi",
             "abe": "m\u00e4\u00e4r\u00e4tt\u00e4",
-            "_stem": "m\u00e4\u00e4r\u00e4ss\u00e4"
+            "_stem": "m\u00e4\u00e4r\u00e4"
         },
         "p": {
             "nom": "m\u00e4\u00e4r\u00e4t",
@@ -1067,7 +986,7 @@
             "tra": "m\u00e4\u00e4riksi",
             "ist": "m\u00e4\u00e4rin",
             "abe": "m\u00e4\u00e4ritt\u00e4",
-            "_stem": "m\u00e4\u00e4riss\u00e4"
+            "_stem": "m\u00e4\u00e4ri"
         }
     },
     "puheenjohtaja": {
@@ -1172,51 +1091,29 @@
     "auto": {
         "s": {
             "nom": "auto",
-            "absv": "autoa",
-            "erg": "autoak",
-            "dat": "autoari",
             "gen": "auton",
-            "com": "autoarekin",
-            "cau": "autoarengatik",
-            "ben": "autoarentzat",
-            "ins": "autoaz",
-            "ine": "autossa",
-            "loc": "autoko",
-            "all": "autolle",
-            "ter": "autoraino",
-            "dir": "autorantz",
-            "des": "autorako",
-            "abl": "autolta",
             "par": "autoa",
             "ill": "autoon",
+            "ine": "autossa",
             "ela": "autosta",
             "ade": "autolla",
+            "abl": "autolta",
+            "all": "autolle",
             "ess": "autona",
             "tra": "autoksi",
             "abe": "autotta",
             "_stem": "auto"
         },
         "p": {
-            "absv": "autoak",
-            "erg": "autoek",
-            "dat": "autoei",
-            "gen": "autojen",
-            "com": "autoekin",
-            "cau": "autoengatik",
-            "ben": "autoentzat",
-            "ins": "autoez",
-            "ine": "autoissa",
-            "loc": "autoetako",
-            "all": "autoille",
-            "ter": "autoetaraino",
-            "dir": "autoetarantz",
-            "des": "autoetarako",
-            "abl": "autoilta",
             "nom": "autot",
+            "gen": "autojen",
             "par": "autoja",
             "ill": "autoihin",
+            "ine": "autoissa",
             "ela": "autoista",
             "ade": "autoilla",
+            "abl": "autoilta",
+            "all": "autoille",
             "ess": "autoina",
             "tra": "autoiksi",
             "ist": "autoin",
@@ -1337,7 +1234,7 @@
             "ess": "p\u00e4\u00e4t\u00f6ksen\u00e4",
             "tra": "p\u00e4\u00e4t\u00f6kseksi",
             "abe": "p\u00e4\u00e4t\u00f6ksett\u00e4",
-            "_stem": "p\u00e4\u00e4t\u00f6ksess\u00e4"
+            "_stem": "p\u00e4\u00e4t\u00f6kse"
         },
         "p": {
             "nom": "p\u00e4\u00e4t\u00f6kset",
@@ -1353,7 +1250,7 @@
             "tra": "p\u00e4\u00e4t\u00f6ksiksi",
             "ist": "p\u00e4\u00e4t\u00f6ksin",
             "abe": "p\u00e4\u00e4t\u00f6ksitt\u00e4",
-            "_stem": "p\u00e4\u00e4t\u00f6ksiss\u00e4"
+            "_stem": "p\u00e4\u00e4t\u00f6ksi"
         }
     },
     "k\u00e4ytt\u00f6": {
@@ -1370,7 +1267,7 @@
             "ess": "k\u00e4ytt\u00f6n\u00e4",
             "tra": "k\u00e4yt\u00f6ksi",
             "abe": "k\u00e4yt\u00f6tt\u00e4",
-            "_stem": "k\u00e4yt\u00f6ss\u00e4"
+            "_stem": "k\u00e4yt\u00f6"
         },
         "p": {
             "nom": "k\u00e4yt\u00f6t",
@@ -1386,7 +1283,7 @@
             "tra": "k\u00e4yt\u00f6iksi",
             "ist": "k\u00e4yt\u00f6in",
             "abe": "k\u00e4yt\u00f6itt\u00e4",
-            "_stem": "k\u00e4yt\u00f6iss\u00e4"
+            "_stem": "k\u00e4yt\u00f6i"
         }
     },
     "syy": {
@@ -1403,7 +1300,7 @@
             "ess": "syyn\u00e4",
             "tra": "syyksi",
             "abe": "syytt\u00e4",
-            "_stem": "syyss\u00e4"
+            "_stem": "syy"
         },
         "p": {
             "nom": "syyt",
@@ -1419,7 +1316,7 @@
             "tra": "syiksi",
             "ist": "syin",
             "abe": "syitt\u00e4",
-            "_stem": "syiss\u00e4"
+            "_stem": "syi"
         }
     },
     "el\u00e4m\u00e4": {
@@ -1436,7 +1333,7 @@
             "ess": "el\u00e4m\u00e4n\u00e4",
             "tra": "el\u00e4m\u00e4ksi",
             "abe": "el\u00e4m\u00e4tt\u00e4",
-            "_stem": "el\u00e4m\u00e4ss\u00e4"
+            "_stem": "el\u00e4m\u00e4"
         },
         "p": {
             "nom": "el\u00e4m\u00e4t",
@@ -1452,7 +1349,7 @@
             "tra": "el\u00e4miksi",
             "ist": "el\u00e4min",
             "abe": "el\u00e4mitt\u00e4",
-            "_stem": "el\u00e4miss\u00e4"
+            "_stem": "el\u00e4mi"
         }
     },
     "kilpailu": {
@@ -1535,7 +1432,7 @@
             "ess": "kes\u00e4n\u00e4",
             "tra": "kes\u00e4ksi",
             "abe": "kes\u00e4tt\u00e4",
-            "_stem": "kes\u00e4ss\u00e4"
+            "_stem": "kes\u00e4"
         },
         "p": {
             "nom": "kes\u00e4t",
@@ -1551,7 +1448,7 @@
             "tra": "kesiksi",
             "ist": "kesin",
             "abe": "kesitt\u00e4",
-            "_stem": "kesiss\u00e4"
+            "_stem": "kesi"
         }
     },
     "ongelma": {
@@ -1601,7 +1498,7 @@
             "ess": "yhti\u00f6n\u00e4",
             "tra": "yhti\u00f6ksi",
             "abe": "yhti\u00f6tt\u00e4",
-            "_stem": "yhti\u00f6ss\u00e4"
+            "_stem": "yhti\u00f6"
         },
         "p": {
             "nom": "yhti\u00f6t",
@@ -1617,7 +1514,7 @@
             "tra": "yhti\u00f6iksi",
             "ist": "yhti\u00f6in",
             "abe": "yhti\u00f6itt\u00e4",
-            "_stem": "yhti\u00f6iss\u00e4"
+            "_stem": "yhti\u00f6i"
         }
     },
     "joukkue": {
@@ -1865,7 +1762,7 @@
             "ess": "nimen\u00e4",
             "tra": "nimeksi",
             "abe": "nimett\u00e4",
-            "_stem": "nimess\u00e4"
+            "_stem": "nime"
         },
         "p": {
             "nom": "nimet",
@@ -1881,7 +1778,7 @@
             "tra": "nimiksi",
             "ist": "nimin",
             "abe": "nimitt\u00e4",
-            "_stem": "nimiss\u00e4"
+            "_stem": "nimi"
         }
     },
     "joukko": {
@@ -1988,54 +1885,32 @@
             "nom": "apu",
             "gen": "avun",
             "par": "apua",
-            "ill": "apuba",
-            "ine": "apuban",
-            "ela": "apub\u00f3l",
-            "ade": "apun\u00e1l",
-            "abl": "aput\u00f3l",
-            "all": "apuhoz",
+            "ill": "apuun",
+            "ine": "avussa",
+            "ela": "avusta",
+            "ade": "avulla",
+            "abl": "avulta",
+            "all": "avulle",
             "ess": "apuna",
-            "tra": "apuv\u00e1",
+            "tra": "avuksi",
             "abe": "avutta",
-            "acc": "aput",
-            "dat": "apunak",
-            "ins": "apuval",
-            "cfi": "apu\u00e9rt",
-            "ter": "apuig",
-            "esf": "apuk\u00e9nt",
-            "spe": "apun",
-            "sbl": "apura",
-            "del": "apur\u00f3l",
-            "np1": "apu\u00e9",
-            "np2": "apu\u00e9i",
-            "_stem": "apuban"
+            "_stem": "avu"
         },
         "p": {
-            "nom": "apuk",
+            "nom": "avut",
             "gen": "apujen",
             "par": "apuja",
-            "ill": "apukba",
-            "ine": "apukban",
-            "ela": "apukb\u00f3l",
-            "ade": "apukn\u00e1l",
-            "abl": "apukt\u00f3l",
-            "all": "apukhoz",
+            "ill": "apuihin",
+            "ine": "avuissa",
+            "ela": "avuista",
+            "ade": "avuilla",
+            "abl": "avuilta",
+            "all": "avuille",
             "ess": "apuina",
-            "tra": "apukk\u00e1",
+            "tra": "avuiksi",
             "ist": "avuin",
             "abe": "avuitta",
-            "acc": "apukat",
-            "dat": "apuknak",
-            "ins": "apukkal",
-            "cfi": "apuk\u00e9rt",
-            "ter": "apukig",
-            "esf": "apukk\u00e9nt",
-            "spe": "apukon",
-            "sbl": "apukra",
-            "del": "apukr\u00f3l",
-            "np1": "apuk\u00e9",
-            "np2": "apuk\u00e9i",
-            "_stem": "apukban"
+            "_stem": "avui"
         }
     },
     "ryhm\u00e4": {
@@ -2052,7 +1927,7 @@
             "ess": "ryhm\u00e4n\u00e4",
             "tra": "ryhm\u00e4ksi",
             "abe": "ryhm\u00e4tt\u00e4",
-            "_stem": "ryhm\u00e4ss\u00e4"
+            "_stem": "ryhm\u00e4"
         },
         "p": {
             "nom": "ryhm\u00e4t",
@@ -2068,7 +1943,7 @@
             "tra": "ryhmiksi",
             "ist": "ryhmin",
             "abe": "ryhmitt\u00e4",
-            "_stem": "ryhmiss\u00e4"
+            "_stem": "ryhmi"
         }
     },
     "hetki": {
@@ -2085,7 +1960,7 @@
             "ess": "hetken\u00e4",
             "tra": "hetkeksi",
             "abe": "hetkett\u00e4",
-            "_stem": "hetkess\u00e4"
+            "_stem": "hetke"
         },
         "p": {
             "nom": "hetket",
@@ -2101,7 +1976,7 @@
             "tra": "hetkiksi",
             "ist": "hetkin",
             "abe": "hetkitt\u00e4",
-            "_stem": "hetkiss\u00e4"
+            "_stem": "hetki"
         }
     },
     "teht\u00e4v\u00e4": {
@@ -2118,7 +1993,7 @@
             "ess": "teht\u00e4v\u00e4n\u00e4",
             "tra": "teht\u00e4v\u00e4ksi",
             "abe": "teht\u00e4v\u00e4tt\u00e4",
-            "_stem": "teht\u00e4v\u00e4ss\u00e4"
+            "_stem": "teht\u00e4v\u00e4"
         },
         "p": {
             "nom": "teht\u00e4v\u00e4t",
@@ -2134,7 +2009,7 @@
             "tra": "teht\u00e4viksi",
             "ist": "teht\u00e4vin",
             "abe": "teht\u00e4vitt\u00e4",
-            "_stem": "teht\u00e4viss\u00e4"
+            "_stem": "teht\u00e4vi"
         }
     },
     "puolue": {
@@ -2406,54 +2281,32 @@
             "nom": "hinta",
             "gen": "hinnan",
             "par": "hintaa",
-            "ill": "hint\u00e1ba",
-            "ine": "hint\u00e1ban",
-            "ela": "hint\u00e1b\u00f3l",
-            "ade": "hint\u00e1n\u00e1l",
-            "abl": "hint\u00e1t\u00f3l",
-            "all": "hint\u00e1hoz",
+            "ill": "hintaan",
+            "ine": "hinnassa",
+            "ela": "hinnasta",
+            "ade": "hinnalla",
+            "abl": "hinnalta",
+            "all": "hinnalle",
             "ess": "hintana",
-            "tra": "hint\u00e1v\u00e1",
+            "tra": "hinnaksi",
             "abe": "hinnatta",
-            "acc": "hint\u00e1t",
-            "dat": "hint\u00e1nak",
-            "ins": "hint\u00e1val",
-            "cfi": "hint\u00e1\u00e9rt",
-            "ter": "hint\u00e1ig",
-            "esf": "hintak\u00e9nt",
-            "spe": "hint\u00e1n",
-            "sbl": "hint\u00e1ra",
-            "del": "hint\u00e1r\u00f3l",
-            "np1": "hint\u00e1\u00e9",
-            "np2": "hint\u00e1\u00e9i",
-            "_stem": "hint\u00e1ban"
+            "_stem": "hinna"
         },
         "p": {
-            "nom": "hint\u00e1k",
+            "nom": "hinnat",
             "gen": "hintojen",
             "par": "hintoja",
-            "ill": "hint\u00e1kba",
-            "ine": "hint\u00e1kban",
-            "ela": "hint\u00e1kb\u00f3l",
-            "ade": "hint\u00e1kn\u00e1l",
-            "abl": "hint\u00e1kt\u00f3l",
-            "all": "hint\u00e1khoz",
+            "ill": "hintoihin",
+            "ine": "hinnoissa",
+            "ela": "hinnoista",
+            "ade": "hinnoilla",
+            "abl": "hinnoilta",
+            "all": "hinnoille",
             "ess": "hintoina",
-            "tra": "hint\u00e1kk\u00e1",
+            "tra": "hinnoiksi",
             "ist": "hinnoin",
             "abe": "hinnoitta",
-            "acc": "hint\u00e1kat",
-            "dat": "hint\u00e1knak",
-            "ins": "hint\u00e1kkal",
-            "cfi": "hint\u00e1k\u00e9rt",
-            "ter": "hint\u00e1kig",
-            "esf": "hint\u00e1kk\u00e9nt",
-            "spe": "hint\u00e1kon",
-            "sbl": "hint\u00e1kra",
-            "del": "hint\u00e1kr\u00f3l",
-            "np1": "hint\u00e1k\u00e9",
-            "np2": "hint\u00e1k\u00e9i",
-            "_stem": "hint\u00e1kban"
+            "_stem": "hinnoi"
         }
     },
     "sunnuntai": {
@@ -2494,28 +2347,16 @@
             "nom": "sarja",
             "gen": "sarjan",
             "par": "sarjaa",
-            "ill": "sarj\u00e1ba",
-            "ine": "sarj\u00e1ban",
-            "ela": "sarj\u00e1b\u00f3l",
-            "ade": "sarj\u00e1n\u00e1l",
-            "abl": "sarj\u00e1t\u00f3l",
-            "all": "sarj\u00e1hoz",
+            "ill": "sarjaan",
+            "ine": "sarjassa",
+            "ela": "sarjasta",
+            "ade": "sarjalla",
+            "abl": "sarjalta",
+            "all": "sarjalle",
             "ess": "sarjana",
-            "tra": "sarj\u00e1v\u00e1",
+            "tra": "sarjaksi",
             "abe": "sarjatta",
-            "acc": "sarj\u00e1t",
-            "dat": "sarj\u00e1nak",
-            "ins": "sarj\u00e1val",
-            "cfi": "sarj\u00e1\u00e9rt",
-            "ter": "sarj\u00e1ig",
-            "esf": "sarjak\u00e9nt",
-            "esm": "sarj\u00e1ul",
-            "spe": "sarj\u00e1n",
-            "sbl": "sarj\u00e1ra",
-            "del": "sarj\u00e1r\u00f3l",
-            "np1": "sarj\u00e1\u00e9",
-            "np2": "sarj\u00e1\u00e9i",
-            "_stem": "sarj\u00e1ban"
+            "_stem": "sarja"
         },
         "p": {
             "nom": "sarjat",
@@ -2647,7 +2488,7 @@
             "ess": "yhteisty\u00f6n\u00e4",
             "tra": "yhteisty\u00f6ksi",
             "abe": "yhteisty\u00f6tt\u00e4",
-            "_stem": "yhteisty\u00f6ss\u00e4"
+            "_stem": "yhteisty\u00f6"
         },
         "p": {
             "nom": "yhteisty\u00f6t",
@@ -2663,7 +2504,7 @@
             "tra": "yhteist\u00f6iksi",
             "ist": "yhteist\u00f6in",
             "abe": "yhteist\u00f6itt\u00e4",
-            "_stem": "yhteist\u00f6iss\u00e4"
+            "_stem": "yhteist\u00f6i"
         }
     },
     "j\u00e4sen": {
@@ -2680,7 +2521,7 @@
             "ess": "j\u00e4senen\u00e4",
             "tra": "j\u00e4seneksi",
             "abe": "j\u00e4senett\u00e4",
-            "_stem": "j\u00e4seness\u00e4"
+            "_stem": "j\u00e4sene"
         },
         "p": {
             "nom": "j\u00e4senet",
@@ -2696,7 +2537,7 @@
             "tra": "j\u00e4seniksi",
             "ist": "j\u00e4senin",
             "abe": "j\u00e4senitt\u00e4",
-            "_stem": "j\u00e4seniss\u00e4"
+            "_stem": "j\u00e4seni"
         }
     },
     "tutkimus": {
@@ -2746,7 +2587,7 @@
             "ess": "syksyn\u00e4",
             "tra": "syksyksi",
             "abe": "syksytt\u00e4",
-            "_stem": "syksyss\u00e4"
+            "_stem": "syksy"
         },
         "p": {
             "nom": "syksyt",
@@ -2762,7 +2603,7 @@
             "tra": "syksyiksi",
             "ist": "syksyin",
             "abe": "syksyitt\u00e4",
-            "_stem": "syksyiss\u00e4"
+            "_stem": "syksyi"
         }
     },
     "torstai": {
@@ -2878,7 +2719,7 @@
             "ess": "kysymyksen\u00e4",
             "tra": "kysymykseksi",
             "abe": "kysymyksett\u00e4",
-            "_stem": "kysymyksess\u00e4"
+            "_stem": "kysymykse"
         },
         "p": {
             "nom": "kysymykset",
@@ -2894,7 +2735,7 @@
             "tra": "kysymyksiksi",
             "ist": "kysymyksin",
             "abe": "kysymyksitt\u00e4",
-            "_stem": "kysymyksiss\u00e4"
+            "_stem": "kysymyksi"
         }
     },
     "talo": {
@@ -3043,7 +2884,7 @@
             "ess": "pelin\u00e4",
             "tra": "peliksi",
             "abe": "pelitt\u00e4",
-            "_stem": "peliss\u00e4"
+            "_stem": "peli"
         },
         "p": {
             "nom": "pelit",
@@ -3059,7 +2900,7 @@
             "tra": "peleiksi",
             "ist": "pelein",
             "abe": "peleitt\u00e4",
-            "_stem": "peleiss\u00e4"
+            "_stem": "pelei"
         }
     },
     "kirja": {
@@ -3175,7 +3016,7 @@
             "ess": "esityksen\u00e4",
             "tra": "esitykseksi",
             "abe": "esityksett\u00e4",
-            "_stem": "esityksess\u00e4"
+            "_stem": "esitykse"
         },
         "p": {
             "nom": "esitykset",
@@ -3191,7 +3032,7 @@
             "tra": "esityksiksi",
             "ist": "esityksin",
             "abe": "esityksitt\u00e4",
-            "_stem": "esityksiss\u00e4"
+            "_stem": "esityksi"
         }
     },
     "edustaja": {
@@ -3230,43 +3071,33 @@
     "ala": {
         "s": {
             "nom": "ala",
-            "gen": "alas",
+            "gen": "alan",
             "par": "alaa",
             "ill": "alaan",
             "ine": "alassa",
             "ela": "alasta",
             "ade": "alalla",
-            "abl": "\u0101l\u0101",
+            "abl": "alalta",
             "all": "alalle",
             "ess": "alana",
             "tra": "alaksi",
             "abe": "alatta",
-            "dat": "alai",
-            "acc": "alu",
-            "voc": "ala",
-            "ins": "alu",
-            "loc": "al\u0101",
             "_stem": "ala"
         },
         "p": {
-            "nom": "alas",
-            "gen": "alu",
+            "nom": "alat",
+            "gen": "alojen",
             "par": "aloja",
             "ill": "aloihin",
             "ine": "aloissa",
             "ela": "aloista",
             "ade": "aloilla",
-            "abl": "\u0101l\u012bs",
+            "abl": "aloilta",
             "all": "aloille",
             "ess": "aloina",
             "tra": "aloiksi",
             "ist": "aloin",
             "abe": "aloitta",
-            "dat": "al\u0101m",
-            "acc": "alas",
-            "voc": "alas",
-            "ins": "al\u0101m",
-            "loc": "al\u0101s",
             "_stem": "aloi"
         }
     },
@@ -3284,7 +3115,7 @@
             "ess": "tien\u00e4",
             "tra": "tieksi",
             "abe": "tiett\u00e4",
-            "_stem": "tiess\u00e4"
+            "_stem": "tie"
         },
         "p": {
             "nom": "tiet",
@@ -3300,7 +3131,7 @@
             "tra": "teiksi",
             "ist": "tein",
             "abe": "teitt\u00e4",
-            "_stem": "teiss\u00e4"
+            "_stem": "tei"
         }
     },
     "perhe": {
@@ -3317,7 +3148,7 @@
             "ess": "perheen\u00e4",
             "tra": "perheeksi",
             "abe": "perheett\u00e4",
-            "_stem": "perheess\u00e4"
+            "_stem": "perhee"
         },
         "p": {
             "nom": "perheet",
@@ -3333,7 +3164,7 @@
             "tra": "perheiksi",
             "ist": "perhein",
             "abe": "perheitt\u00e4",
-            "_stem": "perheiss\u00e4"
+            "_stem": "perhei"
         }
     },
     "metri": {
@@ -3350,7 +3181,7 @@
             "ess": "metrin\u00e4",
             "tra": "metriksi",
             "abe": "metritt\u00e4",
-            "_stem": "metriss\u00e4"
+            "_stem": "metri"
         },
         "p": {
             "nom": "metrit",
@@ -3366,7 +3197,7 @@
             "tra": "metreiksi",
             "ist": "metrein",
             "abe": "metreitt\u00e4",
-            "_stem": "metreiss\u00e4"
+            "_stem": "metrei"
         }
     },
     "oikeus": {
@@ -3433,6 +3264,39 @@
             "ist": "asemin",
             "abe": "asemitta",
             "_stem": "asemi"
+        }
+    },
+    "elokuva": {
+        "s": {
+            "nom": "elokuva",
+            "gen": "elokuvan",
+            "par": "elokuvaa",
+            "ill": "elokuvaan",
+            "ine": "elokuvassa",
+            "ela": "elokuvasta",
+            "ade": "elokuvalla",
+            "abl": "elokuvalta",
+            "all": "elokuvalle",
+            "ess": "elokuvana",
+            "tra": "elokuvaksi",
+            "abe": "elokuvatta",
+            "_stem": "elokuva"
+        },
+        "p": {
+            "nom": "elokuvat",
+            "gen": "elokuvien",
+            "par": "elokuvia",
+            "ill": "elokuviin",
+            "ine": "elokuvissa",
+            "ela": "elokuvista",
+            "ade": "elokuvilla",
+            "abl": "elokuvilta",
+            "all": "elokuville",
+            "ess": "elokuvina",
+            "tra": "elokuviksi",
+            "ist": "elokuvin",
+            "abe": "elokuvitta",
+            "_stem": "elokuvi"
         }
     }
 }
