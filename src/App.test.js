@@ -21,7 +21,7 @@ afterEach(() => server.resetHandlers())
 afterAll(() => server.close())
 
 test('has correct pronouns', async () => {
-  const { getByText } = render(<App />);
+  const { getByText } = render(<App schema="verbs.schema.json" list="verbs.json" />);
   await waitFor(() => getByText("Present Tense"));
 
   expect(await waitFor(() => getByText("minä"))).toBeInTheDocument();
@@ -33,7 +33,7 @@ test('has correct pronouns', async () => {
 });
 
 test('errors render', async () => {
-  const { getByText, getAllByRole, getAllByText } = render(<App />);
+  const { getByText, getAllByRole, getAllByText } = render(<App schema="verbs.schema.json" list="verbs.json" />);
   await waitFor(() => getByText("Present Tense"));
 
   fireEvent.click(getByText("Submit"));

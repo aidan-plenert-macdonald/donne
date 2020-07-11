@@ -1,0 +1,25 @@
+{
+    "type": "object",
+    "properties": {
+        "s": {
+            "title": "Singular",
+            "type": "object",
+            "properties": {
+                "_stem": {
+                    "title": "Stem",
+                    "type": "string"
+                }
+            }
+        },
+        "p": {
+            "title": "Plural",
+            "type": "object",
+            "properties": {
+                "_stem": {
+                    "title": "Stem",
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
